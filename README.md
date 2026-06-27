@@ -5,3 +5,4 @@ feat: implement weather data client
 feat: add alert rule engine
 fix: handle invalid location requests
 feat: add email notification service
+test: add weather client unit tests
