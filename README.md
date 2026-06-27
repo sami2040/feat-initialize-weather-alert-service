@@ -6,4 +6,4 @@ feat: add alert rule engine
 fix: handle invalid location requests
 feat: add email notification service
 test: add weather client unit tests
-refactor: simplify alert processing logic
+refactor: simplify alert processingm logic
